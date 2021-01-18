@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Form extends React.Component {
+export default class Form extends React.Component {
 
   // handleFirstNameChange = event => {
   //   this.setState({
